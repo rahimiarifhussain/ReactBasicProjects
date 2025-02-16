@@ -1,10 +1,12 @@
 import Counter from "./components/counter/Counter"
+import Todo from "./components/todo/Todo"
 
 const App = () => {
   return (
     <>
     
-      <Counter />
+      {/* <Counter /> */}
+      <Todo />
     </>
   )
 }
